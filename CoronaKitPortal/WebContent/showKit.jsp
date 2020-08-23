@@ -8,8 +8,8 @@
 <body>
 
 	
-<h1>${msg}</h1>
-	<h2>Show Kit Products<h2></h2>  <br/>
+
+		<h2>Your Corona Prevention Kit Order Summary.<h2></h2>  <br/>
 	
 		
 		
@@ -36,7 +36,7 @@
 				
 			</table>
 		
-		
+		<h2>Thank you for the Order, It will be Delivered Soon !!</h2>
 
 </body>
 </html>
